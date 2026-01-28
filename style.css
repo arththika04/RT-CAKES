@@ -36,11 +36,11 @@ body {
   font-size: 3rem;
   line-height: 1.1;
   margin-bottom: 1rem;
-  color: #222;
+  color: #5c3c3c;
 }
 
 .hero-text {
-  color: #555;
+  color: #555555;
   font-size: 0.98rem;
   line-height: 1.6;
   margin-bottom: 1.8rem;
@@ -50,7 +50,7 @@ body {
   padding: 0.9rem 2.4rem;
   border-radius: 999px;
   border: none;
-  background: #ff5a1f;
+  background: #2c0e05;
   color: #fff;
   font-weight: 600;
   font-size: 0.95rem;
