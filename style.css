@@ -7,7 +7,7 @@
 
 /* full page background */
 body {
-  background-color: #fff7f2;
+  background-color: #080808;
 }
 
 /* hero section */
@@ -22,11 +22,11 @@ body {
 
 /* left text */
 .hero-content {
-  max-width: 480px;
+  max-width: 680px;
 }
 
 .hero-subtitle {
-  color: #f58b54;
+  color: #774b35;
   letter-spacing: 2px;
   text-transform: uppercase;
   margin-bottom: 0.75rem;
@@ -73,7 +73,7 @@ body {
 }
 
 .hero-image {
-  max-width: 420px;
+  max-width: 920px;
   width: 100%;
   border-radius: 24px;
   object-fit: cover;
