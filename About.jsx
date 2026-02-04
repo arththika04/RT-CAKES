@@ -13,3 +13,15 @@ export default function About() {
           <p className="about-tagline">
             <em>Ready To Taste - Freshly baked cakes with love and the finest ingredients.</em>
           </p>
+          <p className="about-text">
+            At RT Cakes, we believe every celebration deserves the perfect cake. 
+            Our passionate bakers craft each creation with premium ingredients, 
+            bringing joy to every slice. From classic flavors to custom designs, 
+            we make your sweet dreams come true.
+          </p>
+          <button className="about-btn">Learn More</button>
+        </div>
+      </div>
+    </section>
+  );
+}
