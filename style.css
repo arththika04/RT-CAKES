@@ -239,5 +239,17 @@ body {
     text-align: center;
     padding: 3rem 1.5rem;
   }
+.about-content {
+    max-width: none;
+  }
+
+  .about-title {
+    font-size: 2rem;
+  }
+
+  .about-image {
+    max-width: 100%;
+  }
+}
 
 
