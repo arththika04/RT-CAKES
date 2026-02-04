@@ -227,5 +227,17 @@ body {
   cursor: pointer;
   transition: transform 0.15s ease, background 0.15s ease;
 }
+.about-btn:hover {
+  background: #8b5a4a;
+  transform: translateY(-2px);
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 900px) {
+  .about {
+    flex-direction: column;
+    text-align: center;
+    padding: 3rem 1.5rem;
+  }
 
 
