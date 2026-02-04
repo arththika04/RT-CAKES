@@ -209,4 +209,23 @@ body {
   line-height: 1.6;
   margin-bottom: 1.5rem;
 }
+.about-text {
+  color: #666666;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+
+.about-btn {
+  padding: 1rem 2.5rem;
+  border-radius: 999px;
+  border: none;
+  background: #6b4a3a;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
 
