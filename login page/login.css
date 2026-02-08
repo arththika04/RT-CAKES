@@ -147,3 +147,14 @@ body {
   align-items: center;
   gap: 0.3rem;
 }
+.link {
+  color: #f59e0b;
+  text-decoration: none;
+}
+
+/* bottom text */
+.bottom-text {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  text-align: center;
+}
