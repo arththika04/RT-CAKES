@@ -158,3 +158,17 @@ body {
   font-size: 0.8rem;
   text-align: center;
 }
+/* --- responsive --- */
+@media (max-width: 900px) {
+  .split-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .photo-side {
+    min-height: 260px;
+  }
+
+  .form-side {
+    padding-top: 1.5rem;
+  }
+}
