@@ -44,3 +44,20 @@ body {
   margin-bottom: 1.8rem;
   text-shadow: 0 4px 18px rgba(0, 0, 0, 0.7);
 }
+.actions {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+/* --- buttons --- */
+.btn {
+  border-radius: 999px;
+  border: none;
+  padding: 0.7rem 1.2rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-weight: 600;
+}
