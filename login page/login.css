@@ -133,3 +133,17 @@ body {
 .field input:focus {
   border-color: #ffe36b;
 }
+/* remember / forgot */
+.row {
+  margin: 0.4rem 0 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+}
+
+.remember {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
