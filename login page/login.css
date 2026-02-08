@@ -61,3 +61,17 @@ body {
   cursor: pointer;
   font-weight: 600;
 }
+.btn.primary {
+  background: #ffe36b;
+  color: #333;
+}
+
+.btn.secondary {
+  background: transparent;
+  color: #333;
+  border: 1px solid #ffe36b;
+}
+
+.btn.full {
+  width: 100%;
+}
