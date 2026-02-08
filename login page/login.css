@@ -88,3 +88,24 @@ body {
   width: 100%;
   max-width: 420px;
 }
+/* header */
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.back {
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.title {
+  font-weight: 600;
+}
+
+.welcome {
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+}
