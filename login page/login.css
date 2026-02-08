@@ -75,3 +75,16 @@ body {
 .btn.full {
   width: 100%;
 }
+* --- right form section --- */
+.form-side {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  padding: 2rem 1.5rem;
+}
+
+.form-wrapper {
+  width: 100%;
+  max-width: 420px;
+}
